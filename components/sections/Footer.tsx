@@ -19,7 +19,7 @@ const NewFooter = () => {
             >
               <li>
                 <a
-                  href='https://www.bradi.tech/about-us'
+                  href='https://tylerdipolito.com/about'
                   className='hover:text-gray-400 duration-300 ease-in-out'
                 >
                   About Us
@@ -27,7 +27,7 @@ const NewFooter = () => {
               </li>
               <li>
                 <a
-                  href='https://www.bradi.tech/our-works'
+                  href='https://tylerdipoilto.com/about'
                   className='hover:text-gray-400 duration-300 ease-in-out'
                 >
                   Our Works
@@ -35,25 +35,25 @@ const NewFooter = () => {
               </li>
               <li>
                 <a
-                  href='https://www.bradi.tech/our-products'
+                  href='https://tylerdipolito.com/projects'
                   className='hover:text-gray-400 duration-300 ease-in-out'
                 >
                   Our Products
                 </a>
               </li>
-              {/* <li>
+               <li>
                 <a
-                  href='https://bradi.tech/blog'
+                  href='https://tylerdipolito.com/articles'
                   className='hover:text-gray-400 duration-300 ease-in-out'
                 >
                   Blog
                 </a>
-              </li> */}
+              </li> 
             </nav>
           </div>
           <div className='lg:w-1/4 md:w-1/2 w-full px-4'>
             <a
-              href='https://www.bradi.tech/contact-us'
+              href='https://www.tylerdipolito.com/contact'
               className='title-font font-mont tracking-widest text-sm mb-3'
             >
               Contact Us
@@ -67,12 +67,12 @@ const NewFooter = () => {
                   href='mailto:info@bradi.tech'
                   className='hover:text-gray-400 duration-300 ease-in-out'
                 >
-                  info@bradi.tech
+                  tyler@jaksapparel.com
                 </a>
               </li>{' '}
               <li>
                 <a
-                  href='https://www.bradi.tech/bussines-contact-info'
+                  href='https://www.tylerdipolito.com/contact'
                   className='hover:text-gray-400 duration-300 ease-in-out'
                 >
                   Bussines and Contact Information{' '}

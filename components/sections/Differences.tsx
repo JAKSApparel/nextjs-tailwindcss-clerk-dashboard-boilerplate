@@ -36,10 +36,10 @@ const Differences = () => {
                       {item.title === 'go.bradi.tech' ? (
                         <span className='font-mont-light text-lg md:text-lg'>
                           <span className='text-primary-color font-mont text-2xl md:text-4xl'>
-                            bradigo
+                            Dip the Dashboard
                           </span>{' '}
                           <br />
-                          by bradi.tech
+                          by Dip the Dev
                         </span>
                       ) : (
                         <span>{item.title}</span>
