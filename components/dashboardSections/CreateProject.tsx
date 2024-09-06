@@ -177,7 +177,7 @@ const CreateProject = () => {
 
       toast({
         title: 'Your project has been created!',
-        description: <div>Welcome to bradiGO</div>,
+        description: <div>Welcome Tyler</div>,
       });
     } catch (error) {
       toast({
